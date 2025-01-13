@@ -3,7 +3,7 @@ import random
 def randomWord():
 
     wordList = [
-    "skibidi", "ohio", "rizzler", "diddy", "lebron", "sigma", "car", "house", "tree", "dog", "cat", "phone", "book", "laptop", "mouse", "keyboard",
+    "car", "house", "tree", "dog", "cat", "phone", "book", "laptop", "mouse", "keyboard",
     "table", "chair", "window", "door", "bottle", "pen", "pencil", "paper", "bag", "clock",
     "light", "fan", "bed", "shirt", "pants", "shoes", "hat", "glasses", "camera", "television",
     "radio", "speaker", "lamp", "candle", "flower", "garden", "grass", "stone", "river", "mountain",
